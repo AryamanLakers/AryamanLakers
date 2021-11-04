@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" color="yellow" alt="Aryaman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" color="yellow" alt="Aryaman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" color="yellow" alt="Aryaman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/codeSTACKr)
 
 <br />
 
